@@ -1,5 +1,4 @@
-### Hello World, I am Timothy Anand. 👋
-
+### Hello World! I am Timothy Anand. 👋
 #### Aspiring ML Engineer 🪐
 
 I am currently residing in Bengaluru, India. 
